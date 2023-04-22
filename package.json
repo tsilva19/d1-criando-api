@@ -1,0 +1,27 @@
+{
+  "name": "d1-criando-api",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsilva19/d1-criando-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tsilva19/d1-criando-api/issues"
+  },
+  "homepage": "https://github.com/tsilva19/d1-criando-api#readme",
+  "dependencies": {
+    "axios": "^1.3.6",
+    "csv-parse": "^5.3.8",
+    "nodemon": "^2.0.22"
+  }
+}
